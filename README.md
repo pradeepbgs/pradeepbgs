@@ -1,16 +1,22 @@
-## Hi there 👋
+# Pradeep Kumar
 
-<!--
-**pradeepbgs/pradeepbgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+- **Languages:** JavaScript / TypeScript / Python  
+- **Databases:** SQL, NoSQL  
+- **DevOps & Tools:** Docker, Git, Related Tech...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+- **[DevTube](https://github.com/pradeepbgs/devtube)** – A full-stack video-sharing platform built with React, Node.js, and MongoDB.  
+
+- **[Diesel.js](https://github.com/pradeepbgs/diesel)** – An open source simple, lightweight & Fast web framework , similar to Hono.js/Express.js  
+
+- **[Pingfile](https://github.com/pradeepbgs/pingfile)** – An open source file & CLI based API testing software.  
+
+- **[Ex-Router](https://github.com/pradeepbgs/ex-router)** – An open source , ex-router is a NPM package that let's you do File-Based routing similarlly how Next.js / Nuxt.js does. 
+works with express/hono/etc libs.
+
+---
