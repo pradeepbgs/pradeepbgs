@@ -1,9 +1,10 @@
 ## Skills
 
-- **Languages:** JavaScript / TypeScript / Python  
+- **Languages:** JavaScript / TypeScript / Python / Golang(b)
 - **Databases:** SQL, NoSQL  
 - **DevOps & Tools:** Docker, Git, Related Tech...
-
+- **App Developement:** React Native Expo
+- **Full Stack:** React/Next.js, Node/framework, GraphQL, can work with any other technology.
 ---
 
 ## Projects
