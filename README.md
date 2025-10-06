@@ -1,5 +1,3 @@
-# Pradeep Kumar
-
 ## Skills
 
 - **Languages:** JavaScript / TypeScript / Python  
